@@ -1,2 +1,2 @@
 This is a new file added into branch 2.
-This is added from B1
+Add another line after conflict resolved
