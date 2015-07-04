@@ -1,2 +1,2 @@
 This is a new file added into branch 2.
-Add another line
+Add another line after conflict resolved
