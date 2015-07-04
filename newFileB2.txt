@@ -1,2 +1,3 @@
 This is a new file added into branch 2.
 Add another line after conflict resolved
+Adding the 3rd line from B2
